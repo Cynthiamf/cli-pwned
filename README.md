@@ -8,5 +8,5 @@
 `npm install {package}`
 
 #### To see holidays from different countries :
-##### Command to use on terminal : `npm holidate {country}`
-###### Ex : `npm holidate Belgium`
+##### Command to use on terminal : `holidates {country}`
+###### Ex : `holidates Belgium`
