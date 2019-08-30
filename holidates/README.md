@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Holidates 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.2.4-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.2.5-blue.svg?cacheSeconds=2592000" />
 </p>
 
 ### 🏠 [Homepage](https://github.com/Cynthiamf/cli-pwned#readme)
@@ -27,7 +27,7 @@ npm run test
 
 👤 **Cynthia M.**
 
-* Github: [@Cynthiamf](https://github.com/Cynthiamf)
+- Github: [@Cynthiamf](https://github.com/Cynthiamf)
 
 ## 🤝 Contributing
 
@@ -37,5 +37,6 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
